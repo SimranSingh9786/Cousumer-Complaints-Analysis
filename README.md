@@ -1,5 +1,6 @@
 Worked on dataset consumer complaints of finance companies who provide variety of services like Loan,escrow account,Billing etc.The given data was not entirely in tabular form and proper data types.
-So followed these steps for Data Cleaning,Exploration,Visualization and interpretation 											
+So followed these steps for Data Cleaning,Exploration,Visualization and interpretation .
+
 Data in the worksheet State_Code_Name were available in JSON format. Performed the following tasks as part of data preparation																
 1. Created two new columns in the State_Code_Name worksheet and named them as STATE and CODE respectively.																
 2. From the JSON format, fetched the data (STATE and CODE) in tabular form using excel options / excel functions like text to column.																
