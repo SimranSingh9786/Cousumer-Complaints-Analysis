@@ -16,31 +16,31 @@ After that Worked on dates as dates were not in proper date formats and performe
 
 
 Data Analysis:																
-The count of records for which the State Name values didn't showed up (records with #N/A)															
-Created a summary table to display number of complaints for only those State_Codes where State_Name is not mapped to State_Code in the worksheet Consumer_Complaints						Given inferences for the possible reasons of non availabilty of the State_Name using the above steps.	
+The count of records for which the State Name values didn't showed up (records with #N/A).															
+Created a summary table to display number of complaints for only those State_Codes where State_Name is not mapped to State_Code in the worksheet Consumer_Complaints.						Given inferences for the possible reasons of non availabilty of the State_Name using the above steps.	
 
 Then Created a report with following details for each Company Name 																
-1. Company wise total number of complaints. Sorted the data in desc order of number of complaints														
+1. Company wise total number of complaints. Sorted the data in desc order of number of complaints.														
 2. The number and %age of complaints where the timely response was not shared.																
 3. How many complaints were disputed. Also displayed the %age of number of complaints of the total complaints for each company.																
 4. Average delay in days for closure of the complaints.																
 Then Created a report with following details.																
-1. Top five companies with maximum number of complaints along with count of complaints																
-2. Top five issues with maximum number of complaints along with count of complaints																
+1. Top five companies with maximum number of complaints along with count of complaints.																
+2. Top five issues with maximum number of complaints along with count of complaints.																
 3. Monthly trends of the number of complaints.
 
 
 After making reports Create a Dashbord with following details on the year level																
 1. For KPIs																
-i. Total number of complaints registered in percentage with YOY change in the numbers														
+i. Total number of complaints registered in percentage with YOY change in the numbers.														
 ii. Number of complaints for which timely response was given with YOY change.													
 iii. Average resolution time for the complaints with YoY change.															
-2. Proportion of the # of complaints by different products																
+2. Proportion of the # of complaints by different products.																
 3. Proportion of the # of complaints by different channels which were used to file the complaint
 4. There is a limited bandwidth to look in all the complaints / issues raised by customers. Displayed graphically using pareto chart which complaints should be taken on priority.
-5. Monthly trend of the number of complaints in form of line / area chart 									
+5. Monthly trend of the number of complaints in form of line / area chart. 									
 Used Slicers and filters to make dashboard interactive.
-After that provide the key takeaways by seeing and using dashboard
+After that provide the key takeaways by seeing and using dashboard.
 
              				
 																		
